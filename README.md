@@ -16,6 +16,8 @@ This is a simple web project, deployment can be on any web server or even a loca
 
 ## How to contribute
 
+Plesae fork this repository then make a Pull request for revisions
+
 ## Copyright
 
 Copyright Git Training
