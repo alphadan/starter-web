@@ -15,3 +15,8 @@ Sample website with plenty of files for demos. As stated above the purpose is to
 This is a simple web project, deployment can be on any web server or even a local system
 
 ## How to contribute
+
+## Copyright
+
+Copyright Git Training
+
